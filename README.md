@@ -2,7 +2,7 @@
 
 This is the Web Version of final result of "SafeCity Sexual Harassment Story Classification" using Streamlit.
 
-Official website to share your story: [Click Here](https://www.safecity.in)
+[Official website](https://www.safecity.in) to share your story.
 
 ## Table of Contents
 * [Demo](#demo)
@@ -190,11 +190,11 @@ I solved this problem using both Machine Learning and Deep Learning Algorithms
         
 
 ## Installation
-The code is written in python==3.9.5. If you want to install python,  [Click here](https://www.python.org/downloads/). Don't forget to upgrade python if you are lower version. upgrade using `pip install --upgrade python` . 
+The code is written in python==3.9.5. If you want to install python,  [Click here](https://www.python.org/downloads/). Don't forget to upgrade python if you are on lower version. Upgrade using `pip install --upgrade python` . 
 1. Clone the repository
 2. install requirements.txt:
     ```
-    pip isntall -r requirements.txt
+    pip install -r requirements.txt
     ```
     
 ## Run
